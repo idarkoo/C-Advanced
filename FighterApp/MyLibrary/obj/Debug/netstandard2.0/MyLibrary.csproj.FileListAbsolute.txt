@@ -1,0 +1,9 @@
+C:\Users\Lenovo\source\repos\FighterApp\MyLibrary\bin\Debug\netstandard2.0\MyLibrary.deps.json
+C:\Users\Lenovo\source\repos\FighterApp\MyLibrary\bin\Debug\netstandard2.0\MyLibrary.dll
+C:\Users\Lenovo\source\repos\FighterApp\MyLibrary\bin\Debug\netstandard2.0\MyLibrary.pdb
+C:\Users\Lenovo\source\repos\FighterApp\MyLibrary\obj\Debug\netstandard2.0\MyLibrary.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\FighterApp\MyLibrary\obj\Debug\netstandard2.0\MyLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\FighterApp\MyLibrary\obj\Debug\netstandard2.0\MyLibrary.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\FighterApp\MyLibrary\obj\Debug\netstandard2.0\MyLibrary.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\FighterApp\MyLibrary\obj\Debug\netstandard2.0\MyLibrary.dll
+C:\Users\Lenovo\source\repos\FighterApp\MyLibrary\obj\Debug\netstandard2.0\MyLibrary.pdb
